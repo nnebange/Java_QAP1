@@ -1,3 +1,4 @@
+package QAP;
 public class TestTime {
     public static void main(String[] args) {
         // Create two time objects
